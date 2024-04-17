@@ -13,7 +13,10 @@ Module to enable and disable dark mode in Joomla 5
 # Changelogs
 
 ### Version 1.0.0 [2024-03-02]
-* **[Added]** Firs version based in https://it-networks.de/dev-blog/tutorial-joomla-5-dark-mode-switcher-modul-erstellen-backend
+* **[Added]** First version based in https://it-networks.de/dev-blog/tutorial-joomla-5-dark-mode-switcher-modul-erstellen-backend
+
+### Version 1.0.1 [2024-04-17]
+* **[Added]** New version for Joomla 5.1
 
 * * *
 

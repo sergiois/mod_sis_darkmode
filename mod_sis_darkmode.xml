@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="module" client="administrator" method="upgrade">
 	<name>MOD_SIS_DARKMODE</name>
-	<creationDate>Nov 2016</creationDate>
+	<creationDate>Mar 2024</creationDate>
 	<author>Sergio Iglesias</author>
 	<authorEmail>info@sergioiglesias.net</authorEmail>
 	<authorUrl>https://sergioiglesias.net</authorUrl>
-	<copyright>Copyright © 2022 - All rights reserved.</copyright>
+	<copyright>Copyright © 2024 - All rights reserved.</copyright>
 	<license>GNU General Public License v2.0</license>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>MOD__P_JOOMLA__SIS_DARKMODE</description>
 	<files>
 		<filename module="mod_sis_darkmode">mod_sis_darkmode.php</filename>
